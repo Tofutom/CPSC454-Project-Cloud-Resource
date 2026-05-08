@@ -1,3 +1,5 @@
+Created By: Tomphaeton Phu and Daniel Contreras
+
 Setup Guide
 
 Prerequisites: Terraform ≥ 1.6, Python 3.11+, AWS CLI configured with admin credentials for initial deployment.

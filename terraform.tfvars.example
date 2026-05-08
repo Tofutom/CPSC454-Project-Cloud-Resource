@@ -1,0 +1,6 @@
+aws_region          = "us-east-1"
+alert_email         = "your-email@example.com"
+trusted_ssh_cidr    = "YOUR_PUBLIC_IP/32"   # find yours: curl ifconfig.me
+ssh_public_key_path = "~/.ssh/id_rsa.pub"
+cpu_alarm_threshold = 80
+budget_limit_usd    = "5"

@@ -3,7 +3,6 @@ Setup Guide
 Prerequisites: Terraform ≥ 1.6, Python 3.11+, AWS CLI configured with admin credentials for initial deployment.
 
 Step 1 - Clone and configure
-- cd terraform/
 - cp terraform.tfvars.example terraform.tfvars
 - Edit terraform.tfvars: set alert_email, trusted_ssh_cidr, and optionally aws_region
 
